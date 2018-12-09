@@ -36,3 +36,5 @@ chmod +x gitstatus.sh
 ![git commits to pull and push](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-commits-to-pull-and-push.jpg)
 - git conflict  
 ![git conflict](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-conflict.jpg)
+- git and python virtual environment
+![git and python env](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-plus-python-env.jpg)
