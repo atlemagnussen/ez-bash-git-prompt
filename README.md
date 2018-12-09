@@ -18,5 +18,5 @@ chmod +x gitstatus.sh
 
 [Color codes source](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
 
-- git clean
+- git clean  
 ![Git clean example](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-clean.jpg)
