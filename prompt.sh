@@ -47,10 +47,10 @@ function git_prompt() {
     fi
     # python venv
     
-defaultPS1="[${cardinal}\u${default}:${cornflowerblue}\h${yellow2}${bold}@${default}${skyblue}\w${default}]"
+defaultPS1="[${cardinal}\u${default}:${cornflowerblue}\h${yellow2}${bold}@${default}${skyblue}\w${reset}]"
 
     if [[ -n "$VIRTUAL_ENV" ]]; then
-        PS1temp="${yellow}(${VIRTUAL_ENV##*/})${default} $defaultPS1"
+        PS1temp="${yellow}(${VIRTUAL_ENV##*/})${reset} $defaultPS1"
     else
         PS1temp="$defaultPS1"
     fi
@@ -60,14 +60,14 @@ defaultPS1="[${cardinal}\u${default}:${cornflowerblue}\h${yellow2}${bold}@${defa
     local GIT_BRANCH=${git_status_fields[0]}
     local GIT_REMOTE=${git_status_fields[1]}
     if [[ -n "$GIT_BRANCH" ]]; then
-        PS1temp="$PS1temp ${bold}${green}($GIT_BRANCH $GIT_REMOTE)${default}"
+        PS1temp="$PS1temp ${bold}${green}($GIT_BRANCH $GIT_REMOTE)${reset}"
     fi
 
     local GIT_UPSTREAM=${git_status_fields[2]}
 
     local GIT_STAGED=${git_status_fields[3]}
     if [[ -n "$GIT_STAGED" ]]; then
-         PS1temp="$PS1temp${green} $GIT_STAGED${default}"
+         PS1temp="$PS1temp${green} $GIT_STAGED${reset}"
     fi
 
     local GIT_CONFLICTS=${git_status_fields[4]}

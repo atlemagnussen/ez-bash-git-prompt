@@ -18,5 +18,7 @@ chmod +x gitstatus.sh
 
 [Color codes source](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
 
+- home folder no git  
+![home no git](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-home-folder-no-git.jpg)
 - git clean  
 ![Git clean example](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-clean.jpg)
