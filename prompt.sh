@@ -47,7 +47,7 @@ function git_prompt() {
     fi
     # python venv
     
-defaultPS1="[${cardinal}\u${default}:${cornflowerblue}\h${yellow2}${bold}@${default}${skyblue}\w${reset}]"
+    defaultPS1="[${cardinal}\u${default}:${cornflowerblue}\h${yellow2}${bold}@${default}${skyblue}\w${reset}]"
 
     if [[ -n "$VIRTUAL_ENV" ]]; then
         PS1temp="${yellow}(${VIRTUAL_ENV##*/})${reset} $defaultPS1"
