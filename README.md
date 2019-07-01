@@ -21,4 +21,6 @@ chmod +x gitstatus.sh
 - home folder no git  
 ![home no git](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-home-folder-no-git.jpg)
 - git clean  
-![Git clean example](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-clean.jpg)
+![git clean example](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-clean.jpg)
+- git new file  
+![git new file](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-home-folder-no-git.jpg)
