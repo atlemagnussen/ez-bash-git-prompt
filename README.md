@@ -24,6 +24,10 @@ chmod +x gitstatus.sh
 ![git clean example](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-clean.jpg)
 - git new file  
 ![git new file](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-new-file.jpg)
+- git files changed  
+![git files changed](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-files-changed.jpg)
+- git files staged  
+![git files staged](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-files-staged.jpg)
 - git commit to be pushed  
 ![git commit to be pushed](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-commit-to-be-pushed.jpg)
 - git commits to be pulled  
@@ -32,8 +36,3 @@ chmod +x gitstatus.sh
 ![git commits to pull and push](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-commits-to-pull-and-push.jpg)
 - git conflict  
 ![git conflict](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-conflict.jpg)
-- git files changed  
-![git files changed](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-files-changed.jpg)
-- git files staged  
-![git files staged](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-files-staged.jpg)
-
