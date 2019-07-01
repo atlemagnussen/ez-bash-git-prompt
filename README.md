@@ -23,4 +23,4 @@ chmod +x gitstatus.sh
 - git clean  
 ![git clean example](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-clean.jpg)
 - git new file  
-![git new file](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-home-folder-no-git.jpg)
+![git new file](https://storage.googleapis.com/atle-static/bash-prompt/ez-bash-prompt-git-new-file.jpg)
