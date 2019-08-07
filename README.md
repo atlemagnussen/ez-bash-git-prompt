@@ -3,7 +3,7 @@
 Tested on linux and freebsd  
 This is a personal setup of colors and information, I tried to make it simple to change colors and information in the prompt.sh file  
 
-So go ahead and fork it  :-)  
+Big thanks to [jzp74/simple-git-prompt](https://github.com/jzp74/simple-git-prompt) from where I basically got the whole idea and copied a lot.
 
 Source it from .bashrc or bash_profile depending on os/distro to make it work:
 ```sh
