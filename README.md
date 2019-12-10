@@ -5,6 +5,11 @@ This is a personal setup of colors and information, I tried to make it simple to
 
 Big thanks to [jzp74/simple-git-prompt](https://github.com/jzp74/simple-git-prompt) from where I basically got the whole idea and copied a lot.
 
+Clone it
+```sh
+git clone git@github.com:atlemagnussen/ez-bash-git-prompt.git .bashprompt
+```
+
 Source it from .bashrc or bash_profile depending on os/distro to make it work:
 ```sh
 source $HOME/.bashprompt/prompt.sh
