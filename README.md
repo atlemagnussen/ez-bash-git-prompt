@@ -7,7 +7,7 @@ Big thanks to [jzp74/simple-git-prompt](https://github.com/jzp74/simple-git-prom
 
 Clone it
 ```sh
-git clone git@github.com:atlemagnussen/ez-bash-git-prompt.git .bashprompt
+git clone https://github.com/atlemagnussen/ez-bash-git-prompt.git .bashprompt
 ```
 
 Source it from .bashrc or bash_profile depending on os/distro to make it work:
